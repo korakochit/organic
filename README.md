@@ -1,6 +1,6 @@
 # Development tools
 - php7
-  - simple rouuter
+  - simple router
 - boostrap4
 - css
 - google font (Kanit, sans-serid)
