@@ -1,6 +1,6 @@
 <?php
     $request = $_SERVER['REQUEST_URI'];
-    $router = str_replace('/organicproject/','',$request);
+    $router = str_replace('/organic/','',$request);
 
     $arr = explode('/',$router);
     $vet_name = '';
